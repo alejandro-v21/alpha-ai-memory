@@ -11,15 +11,20 @@
 
 ## Decisiones Globales del Equipo
 
-_Sin decisiones registradas aún. Se van a ir llenando automáticamente._
+- **CLI usa `~/.copilot/copilot-instructions.md`** — no `Code/User/prompts/`. Fuente: docs oficiales GitHub.
+- **Memoria persistente**: alpha-ai-memory git repo reemplaza Engram (bloqueado por política corporativa).
+- **Auto-commit**: event-driven en el orquestador + Scheduled Task cada 30 min como red de seguridad.
+- **SDD artifacts**: `.atl\changes\{change-name}\` dentro de cada proyecto (file-based, no Engram).
 
 ## Proyectos Activos
 
-_Sin proyectos registrados aún._
+- **gentle-ai**: Setup de configuración completo. Ver `sessions/2026-03/2026-03-31-gentle-ai-setup.md`
+- **ConAgentesConSkills**: API .NET de prueba para validar agentes. Ver `sessions/2026-03/2026-03-31-ConAgentesConSkills.md`
 
 ## Últimas Sesiones
 
-- **2026-03-31** — ConAgentesConSkills: Extensión de IOrderRepository (Guid, GetByIdAsync), análisis de CA (9 issues), SDD list-orders (explore+spec+design), UserListComponent Angular con signals. Ver `sessions/2026-03/2026-03-31-ConAgentesConSkills.md`
+- **2026-03-31** — [gentle-ai-setup] Diagnóstico y corrección completa de config GitHub Copilot CLI: instrucciones globales, BOM fix, auto-guardado event-driven, Scheduled Task. Ver `sessions/2026-03/2026-03-31-gentle-ai-setup.md`
+- **2026-03-31** — [ConAgentesConSkills] Extensión de IOrderRepository, análisis CA, SDD list-orders, Angular signals. Ver `sessions/2026-03/2026-03-31-ConAgentesConSkills.md`
 
 ---
-_Última actualización: inicialización del sistema_
+_Última actualización: 2026-03-31_
