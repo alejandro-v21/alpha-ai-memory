@@ -19,7 +19,7 @@ _Sin proyectos registrados aún._
 
 ## Últimas Sesiones
 
-_Sin sesiones registradas aún._
+- **2026-03-31** — ConAgentesConSkills: Extensión de IOrderRepository (Guid, GetByIdAsync), análisis de CA (9 issues), SDD list-orders (explore+spec+design), UserListComponent Angular con signals. Ver `sessions/2026-03/2026-03-31-ConAgentesConSkills.md`
 
 ---
 _Última actualización: inicialización del sistema_
