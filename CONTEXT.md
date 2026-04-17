@@ -23,8 +23,11 @@
 
 ## Últimas Sesiones
 
+- **2026-04-17** — [farmacia-ecommerce-web] Análisis completo de la app AngularJS + creación de 7 skills de proyecto (carrito, productos, usuarios, pedidos, loyalty, shared, overview). Ver `sessions/2026-04/2026-04-17-farmacia-ecommerce-web.md`
+
 - **2026-03-31** — [gentle-ai-setup] Diagnóstico y corrección completa de config GitHub Copilot CLI: instrucciones globales, BOM fix, auto-guardado event-driven, Scheduled Task. Ver `sessions/2026-03/2026-03-31-gentle-ai-setup.md`
 - **2026-03-31** — [ConAgentesConSkills] Extensión de IOrderRepository, análisis CA, SDD list-orders, Angular signals. Ver `sessions/2026-03/2026-03-31-ConAgentesConSkills.md`
 
 ---
-_Última actualización: 2026-03-31_
+_Última actualización: 2026-04-17_
+
