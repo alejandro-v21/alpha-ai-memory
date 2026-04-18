@@ -1,3 +1,5 @@
+> ⚠️ ARCHIVADO 2026-04-18 — Migrado a Engram via MCP. Ver README.md.
+
 # Contexto del Equipo — alpha-ai-memory
 
 > Archivo maestro. El agente lo lee al inicio de cada sesión. Actualizado automáticamente.
@@ -30,4 +32,5 @@
 
 ---
 _Última actualización: 2026-04-17_
+
 

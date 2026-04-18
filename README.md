@@ -1,3 +1,19 @@
+# alpha-ai-memory — ARCHIVADO
+
+> ⚠️ **Este repo está archivado desde 2026-04-18**. La memoria persistente del equipo se migró a **Engram via MCP**.
+>
+> - Binario: `C:\Users\areyes\AppData\Local\engram\bin\engram.exe`
+> - DB: `C:\Users\areyes\.engram\engram.db`
+> - MCP activo en Copilot CLI (`~/.copilot/mcp-config.json`) y VSCode (`%APPDATA%\Code\User\mcp.json`)
+>
+> Todo el contenido de este repo fue importado a Engram. Queda aquí **solo como backup histórico read-only**. No escribir más acá.
+>
+> Para buscar memoria: usá `engram search "<query>"` o las tools MCP (`mem_search`, `mem_context`, `mem_get_observation`) desde el agente.
+
+---
+
+## Contenido histórico original
+
 # alpha-ai-memory
 
 Memoria persistente compartida del equipo para agentes de IA (GitHub Copilot CLI + gentle-ai).
@@ -33,3 +49,4 @@ git add .
 git commit -m "memory: session {fecha} — {tema}"
 git push
 ```
+
